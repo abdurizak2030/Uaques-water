@@ -67,7 +67,7 @@ export default function WaterComposition() {
        
           <div className="relative z-10 p-4 drop-shadow-[0_20px_35px_rgba(14,165,233,0.15)] transition-transform duration-500 hover:scale-105">
             <img
-              src="water-glass-1.png" 
+              src="https://tse3.mm.bing.net/th/id/OIP.78YpnQCwKhPk2oQA7OPcrgAAAA?r=0&cb=thfc1falcon&pid=ImgDet&w=178&h=267&c=7&dpr=1.5&o=7&rm=3" 
               alt="Glass of pure water"
               className="w-56 md:w-64 h-auto object-contain mx-auto mix-blend-multiply"
             />

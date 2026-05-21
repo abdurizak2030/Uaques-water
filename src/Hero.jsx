@@ -65,7 +65,7 @@ export default function Hero() {
 
           {/* BOTTLE IMAGE */}
           <img
-            src="double-bottle.png"
+            src="https://tse4.mm.bing.net/th/id/OIP.af_godKfA1C4SspVyIlk9AHaHY?r=0&cb=thfc1falcon&pid=ImgDet&w=178&h=178&c=7&dpr=1.5&o=7&rm=3"
             alt="Water Bottle"
             className="relative z-10 w-72 md:w-80 lg:w-[460px] object-contain drop-shadow-[0_25px_25px_rgba(0,162,232,0.25)] animate-bounce"
           />

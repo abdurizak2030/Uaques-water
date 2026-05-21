@@ -17,7 +17,7 @@ export default function Shop({ view, setView, cart, setCart }) {
     {
       id: 1,
       title: "Diamond Spark Water",
-      image: "double-bottle.png",
+      image: "https://tse4.mm.bing.net/th/id/OIP.af_godKfA1C4SspVyIlk9AHaHY?r=0&cb=thfc1falcon&pid=ImgDet&w=178&h=178&c=7&dpr=1.5&o=7&rm=3",
       oldPrice: "$35.50",
       newPrice: 30,
       desc: "Diamond Spark Water ensuring your health and safety is fully purified and enriched with minerals.",
@@ -25,7 +25,7 @@ export default function Shop({ view, setView, cart, setCart }) {
     {
       id: 2,
       title: "Diamond Mineral Water",
-      image: "double-bottle.png",
+      image: "https://tse4.mm.bing.net/th/id/OIP.af_godKfA1C4SspVyIlk9AHaHY?r=0&cb=thfc1falcon&pid=ImgDet&w=178&h=178&c=7&dpr=1.5&o=7&rm=3",
       oldPrice: "$18.00",
       newPrice: 13.5,
       desc: "Diamond Mineral Water ensuring your health and safety is fully purified and enriched with minerals.",
@@ -33,7 +33,7 @@ export default function Shop({ view, setView, cart, setCart }) {
     {
       id: 3,
       title: "Classic Spark Water",
-      image: "double-bottle.png",
+      image: "https://tse4.mm.bing.net/th/id/OIP.af_godKfA1C4SspVyIlk9AHaHY?r=0&cb=thfc1falcon&pid=ImgDet&w=178&h=178&c=7&dpr=1.5&o=7&rm=3",
       oldPrice: "$29.50",
       newPrice: 23,
       desc: "Classic Spark Water ensuring your health and safety is fully purified and enriched with minerals.",
